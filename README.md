@@ -12,42 +12,19 @@ _328 TILs and counting..._
 
 ### Categories
 
-* [Clojure](#clojure)
+
 * [Devops](#devops)
 * [Git](#git)
-* [Go](#go)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Mac](#mac)
-* [PostgreSQL](#postgresql)
-* [Rails](#rails)
-* [Ruby](#ruby)
-* [tmux](#tmux)
+* [Oracle](#oracle)
 * [Unix](#unix)
 * [Vim](#vim)
 
 ---
 
-### Clojure
-
-- [Aggregation Using merge-with](clojure/aggregation-using-merge-with.md)
-- [Argument Requirements For A Function](clojure/argument-requirements-for-a-function.md)
-- [Evaluate One Liners With lein-exec](clojure/evaluate-one-liners-with-lein-exec.md)
-- [Expanding Macros](clojure/expanding-macros.md)
-- [Get The Value Of An Environment Variable](clojure/get-the-value-of-an-environment-variable.md)
-- [Load A File Into The REPL](clojure/load-a-file-into-the-repl.md)
-- [Mapping With An Index](clojure/mapping-with-an-index.md)
-- [Open JavaDocs](clojure/open-javadocs.md)
-- [Pretty Print The Last Thing](clojure/pretty-print-the-last-thing.md)
-- [Quick Clojure Docs](clojure/quick-clojure-docs.md)
-- [Reductions](clojure/reductions.md)
-- [Set Max Heap Size](clojure/set-max-heap-size.md)
-- [Specify the Directory of a Shell Command](clojure/specify-the-directory-of-a-shell-command.md)
-- [Splitting On Whitespace](clojure/splitting-on-whitespace.md)
-- [Swap Two Items in a Vector](clojure/swap-two-items-in-a-vector.md)
-- [Try A Clojure Project In The REPL](clojure/try-a-clojure-project-in-the-repl.md)
-- [Type of Anything](clojure/type-of-anything.md)
-- [When Overflow Is Desired](clojure/when-overflow-is-desired.md)
 
 ### Devops
 
@@ -99,7 +76,7 @@ _328 TILs and counting..._
 - [What Is The Current Branch?](git/what-is-the-current-branch.md)
 - [Whitespace Warnings](git/whitespace-warnings.md)
 
-### Go
+### Java
 
 - [Not So Random](go/not-so-random.md)
 - [Replace The Current Process With An External Command](go/replace-the-current-process-with-an-external-command.md)
